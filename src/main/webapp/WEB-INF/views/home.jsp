@@ -8,14 +8,6 @@
 <h1>
 	Hello world! i edited it.....  
 </h1>
-<fieldset>
-<legend>GitHub</legend>
-<ul>list</ul>
-<li>Java</li>
-<li>JavaScript</li>
-
-</fieldset>
-
 
 <P>  The time on the server is ${serverTime}. </P>
 </body>
